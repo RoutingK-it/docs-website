@@ -14,6 +14,7 @@ has_children: true
 Here you can find all the information and documentation about the RoutingK.it Web Management Portal (WMP).
 {: .fs-6 .fw-300 }
 
+<!--
 ## Installation
 
 ### From Source
@@ -29,3 +30,4 @@ Here you can find all the information and documentation about the RoutingK.it We
 ## Filters
 
 ## BGP Communities
+//-->
