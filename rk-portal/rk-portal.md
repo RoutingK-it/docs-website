@@ -3,8 +3,9 @@ title: Web Management Portal (WMP) Documentation
 author: Dennis de Houx
 published: true
 layout: default
-nav_order: 2
-permalink: /wmp
+nav_order: 3
+permalink: /web-management-portal
+has_children: true
 ---
 
 # RoutingK.it - Web Management Portal (WMP) Documentation
