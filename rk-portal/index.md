@@ -19,7 +19,7 @@ Here you can find all the information and documentation about the RoutingK.it We
 
 ### Docker
 
-## Portal
+## Web Management Portal
 
 ### Configuration
 
@@ -29,4 +29,4 @@ Here you can find all the information and documentation about the RoutingK.it We
 
 ### Filters
 
-### Communities
+### BGP Communities
