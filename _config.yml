@@ -1,7 +1,7 @@
 title: RoutingK.it - Documentation
 description: Documentation for the RoutingK.it Projects
 baseurl: ""
-url: "https://docs.routingk.it/"
+#url: "https://docs.routingk.it/"
 domain: docs.routingk.it
 repository: RoutingK-it/docs-website
 
