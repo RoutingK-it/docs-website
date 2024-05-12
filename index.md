@@ -1,5 +1,6 @@
 ---
 title: This is only a test
+published: true
 author: Dennis de Houx
 ---
 
