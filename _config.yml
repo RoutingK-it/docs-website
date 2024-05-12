@@ -7,8 +7,9 @@ repository: RoutingK-it/docs-website
 
 permalink: pretty
 
-remote_theme: just-the-docs/just-the-docs-template
+#remote_theme: just-the-docs/just-the-docs-template
 #theme: just-the-docs
+theme: jekkyl-theme-minimal
 
 exclude:
   - .github/
