@@ -5,6 +5,7 @@ published: true
 layout: default
 nav_order: 1
 permalink: /
+has_children: false
 ---
 
 # RoutingK.it - Documentation
