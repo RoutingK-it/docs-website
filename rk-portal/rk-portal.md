@@ -20,14 +20,12 @@ Here you can find all the information and documentation about the RoutingK.it We
 
 ### Docker
 
-## Web Management Portal
+## Configuration
 
-### Configuration
+### Default Settings
 
-#### Default Settings
+### Integrations
 
-#### Integrations
+## Filters
 
-### Filters
-
-### BGP Communities
+## BGP Communities
