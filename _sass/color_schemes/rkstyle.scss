@@ -60,17 +60,17 @@ $red-000: #fcf5f9 !default;
 $red-100: #fae8f1 !default;
 $red-200: #f5cbdc !default;
 $red-300: #edabc0 !default;
-$primary-050: #EBF4F5 !default;
-$primary-100: #D8EBED !default;
-$primary-200: #A3CCD1 !default;
-$primary-300: #76ADB5 !default;
-$primary-400: #31727D !default;
-$primary-500: #093944 !default;
-$primary-600: #07323D !default;
-$primary-700: #052633 !default;
-$primary-800: #031C29 !default;
-$primary-900: #02131F !default;
-$primary-950: #010B14 !default;
+// $primary-050: #EBF4F5 !default;
+// $primary-100: #D8EBED !default;
+// $primary-200: #A3CCD1 !default;
+// $primary-300: #76ADB5 !default;
+// $primary-400: #31727D !default;
+// $primary-500: #093944 !default;
+// $primary-600: #07323D !default;
+// $primary-700: #052633 !default;
+// $primary-800: #031C29 !default;
+// $primary-900: #02131F !default;
+// $primary-950: #010B14 !default;
 
 // Spacing
 
@@ -125,10 +125,10 @@ $search-results-width: $content-width - $nav-width !default;
 $transition-duration: 400ms;
 
 // Buttons & Links
-$btn-primary-color: $primary-500 !default;
+$btn-primary-color: #093944 !default;
 $base-button-color: #44091c !default;
-$link-color: $primary-800 !default;
-$nav-child-link-color: $primary-200 !default;
+$link-color: #031C29 !default;
+$nav-child-link-color: #A3CCD1 !default;
 
 // Media queries in pixels
 
