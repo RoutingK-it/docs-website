@@ -85,7 +85,7 @@ Routes tagged with the blackhole community must be either an IPv4 /32 or an IPV6
 | ---------------------- | ---------------------------------------- |
 | {{ MY_ASN }}:610:x    | Set local preference to [x]              |
 
-By default, {{ $MY_NETWORK }} customers/downstreams are imported to BGP with LocalPref 5000. However, {{ $MY_NETWORK }} provides a LocalPref manipulation community that will allow you to control the link over which traffic comes in for active-passive backup purposes. You can set the LocalPref to 4000 by tagging the route with {{ $MY_ASN }}:610:4000, which is still higher than non-customer routes.
+By default, {{ MY_NETWORK }} customers/downstreams are imported to BGP with LocalPref 5000. However, {{ MY_NETWORK }} provides a LocalPref manipulation community that will allow you to control the link over which traffic comes in for active-passive backup purposes. You can set the LocalPref to 4000 by tagging the route with {{ MY_ASN }}:610:4000, which is still higher than non-customer routes.
 
 ### Exports
 
