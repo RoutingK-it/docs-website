@@ -14,12 +14,7 @@ has_children: false
 Here you can find all the information and documentation about all the RoutingK.it Tools.
 {: .fs-6 .fw-300 }
 
-## RoutingK.it - Web Managment Portal (WMP)
-
-## RoutingK.it - Client / Daemon
-
-
-# Navigation Structure
+## Navigation Structure
 {: .no_toc }
 
 ## Table of contents
