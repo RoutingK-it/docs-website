@@ -1,5 +1,5 @@
 ---
-title: RoutingK.it - Client / Daemon Documentation
+title: Client / Daemon Documentation
 author: Dennis de Houx
 published: true
 layout: default
