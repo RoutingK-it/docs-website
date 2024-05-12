@@ -1,5 +1,5 @@
 ---
-title: Web Management Portal (WMP) Documentation
+title: Web Management Portal
 author: Dennis de Houx
 published: true
 layout: default
