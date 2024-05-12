@@ -48,7 +48,7 @@ These communities are available on both ix/peer and customer/downstream prefixes
 
 ## Alterable / Actions
 
-When these communities are applied to prefixes received by {{ $MY_NETWORK }} they alter their routing policy in our autonomous system. They are available only on customer/downstream BGP sessions.
+When these communities are applied to prefixes received by {{ MY_NETWORK }} they alter their routing policy in our autonomous system. They are available only on customer/downstream BGP sessions.
 
 ### Blackhole
 
