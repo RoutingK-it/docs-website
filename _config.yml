@@ -11,7 +11,7 @@ remote_theme: just-the-docs/just-the-docs
 #theme: just-the-docs
 #theme: jekyll-theme-minimal
 
-color_scheme: rk-style
+color_scheme: rkstyle
 
 exclude:
   - .github/
