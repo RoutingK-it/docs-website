@@ -3,4 +3,7 @@ url: https://docs.routingk.it/
 baseurl: /
 title: RoutingK.it - Documentation
 description: Documentation for the RoutingK.it Projects
-remote_theme: just-the-docs
+theme: just-the-docs
+
+aux_links:
+  Template Repository: https://github.com/just-the-docs/just-the-docs-template
