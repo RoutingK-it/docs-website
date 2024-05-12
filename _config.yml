@@ -9,7 +9,7 @@ permalink: pretty
 
 #remote_theme: just-the-docs/just-the-docs-template
 #theme: just-the-docs
-theme: jekkyl-theme-minimal
+theme: jekyll-theme-minimal
 
 exclude:
   - .github/
