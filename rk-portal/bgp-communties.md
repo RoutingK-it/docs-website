@@ -19,16 +19,16 @@ These communities are available on both ix/peer and customer/downstream prefixes
 
 | Community              | Description                        |
 | ---------------------- | ---------------------------------- |
-| {{ $MY_ASN }}:100:1    | Originated by {{ $MY_NETWORK }}    |
-| {{ $MY_ASN }}:100:2    | Learned from customer/downstream   |
-| {{ $MY_ASN }}:100:3    | Learned from Direct Peer           |
-| {{ $MY_ASN }}:100:4    | Learned from IX route servers      |
-| {{ $MY_ASN }}:100:5    | Learned from transit/upstream      |
-| {{ $MY_ASN }}:101:{{ $SESSION_ASN }} | Learned from {{ $SESSION_NAME }} |
-| {{ $MY_ASN }}:102:{{ $IX_ASN }} | Learned from Internet Exchange {{ $IX_NAME }} |
-| {{ $MY_ASN }}:103:{{ $ROUTER_COUNTRY_CODE }} | Learned in Country {{ $ROUTER_COUNTRY_NAME }} |
-| {{ $MY_ASN }}:104:{{ $ROUTER_LOCATION_ID }} | Learned in Location/Datacenter {{ $ROUTER_LOCATION_NAME }} |
-| {{ $MY_ASN }}:105:{{ $ROUTER_ID }} | Learned from {{ $ROUTER_NAME }} |
+| {{ MY_ASN }}:100:1    | Originated by {{ MY_NETWORK }}    |
+| {{ MY_ASN }}:100:2    | Learned from customer/downstream   |
+| {{ MY_ASN }}:100:3    | Learned from Direct Peer           |
+| {{ MY_ASN }}:100:4    | Learned from IX route servers      |
+| {{ MY_ASN }}:100:5    | Learned from transit/upstream      |
+| {{ MY_ASN }}:101:{{ SESSION_ASN }} | Learned from {{ SESSION_NAME }} |
+| {{ MY_ASN }}:102:{{ IX_ASN }} | Learned from Internet Exchange {{ IX_NAME }} |
+| {{ MY_ASN }}:103:{{ ROUTER_COUNTRY_CODE }} | Learned in Country {{ ROUTER_COUNTRY_NAME }} |
+| {{ MY_ASN }}:104:{{ ROUTER_LOCATION_ID }} | Learned in Location/Datacenter {{ ROUTER_LOCATION_NAME }} |
+| {{ MY_ASN }}:105:{{ ROUTER_ID }} | Learned from {{ ROUTER_NAME }} |
 
 ### Validation information
 
