@@ -5,6 +5,7 @@ published: true
 layout: default
 #nav_order: 3
 permalink: /web-management-portal/bgp-communties
+parent: Web Management Portal
 ---
 # BGP Communities
 {: .fs-9 }
