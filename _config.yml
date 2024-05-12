@@ -1,3 +1,6 @@
+domain: docs.routingk.it
+url: https://docs.routingk.it/
+baseurl: /
 title: RoutingK.it - Documentation
 description: Documentation for the RoutingK.it Projects
-theme: just-the-docs
+theme: jekyll-theme-minimal
