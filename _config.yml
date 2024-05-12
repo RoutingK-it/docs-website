@@ -3,4 +3,4 @@ url: https://docs.routingk.it/
 baseurl: /
 title: RoutingK.it - Documentation
 description: Documentation for the RoutingK.it Projects
-theme: jekyll-theme-minimal
+remote_theme: just-the-docs
