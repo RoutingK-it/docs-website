@@ -1,5 +1,5 @@
 ---
-title: RoutingK.it - Web Management Portal (WMP) Documentation
+title: Web Management Portal (WMP) Documentation
 author: Dennis de Houx
 published: true
 layout: default
