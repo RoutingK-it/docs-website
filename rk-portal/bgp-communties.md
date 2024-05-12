@@ -3,8 +3,8 @@ title: BGP Communities
 author: Dennis de Houx
 published: true
 layout: default
-nav_order: 3
-permalink: /wmp/bgp-communties
+#nav_order: 3
+permalink: /web-management-portal/bgp-communties
 ---
 # BGP Communities
 {: .fs-9 }
