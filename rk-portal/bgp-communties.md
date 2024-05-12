@@ -34,16 +34,16 @@ These communities are available on both ix/peer and customer/downstream prefixes
 
 | Community           | Description                                    |
 | ------------------- | ---------------------------------------------- |
-| {{ $MY_ASN }}:510:1 | Validated IPv4 customer/downstream route       |
-| {{ $MY_ASN }}:510:2 | Validated IPv6 customer/downstream route       |
-| {{ $MY_ASN }}:520:1 | RPKI validated customer/downstream route with state valid |
-| {{ $MY_ASN }}:520:2 | RPKI validated customer/downstream route with state not found |
-| {{ $MY_ASN }}:520:3 | RPKI validated customer/downstream route with state invalid |
-| {{ $MY_ASN }}:530:1 | prefix too long (smaller < 7 for IPv4 or < 12 for IPv6) |
-| {{ $MY_ASN }}:530:2 | prefix too small (greater > 24 for IPv4 or > 48 for IPv6) |
-| {{ $MY_ASN }}:540:1 | Validated Bogon AS filtering                   |
-| {{ $MY_ASN }}:540:2 | Validated Bogon prefix filtering               |
-| {{ $MY_ASN }}:550:1 | Validated Long AS path filtering               |
+| {{ MY_ASN }}:510:1 | Validated IPv4 customer/downstream route       |
+| {{ MY_ASN }}:510:2 | Validated IPv6 customer/downstream route       |
+| {{ MY_ASN }}:520:1 | RPKI validated customer/downstream route with state valid |
+| {{ MY_ASN }}:520:2 | RPKI validated customer/downstream route with state not found |
+| {{ MY_ASN }}:520:3 | RPKI validated customer/downstream route with state invalid |
+| {{ MY_ASN }}:530:1 | prefix too long (smaller < 7 for IPv4 or < 12 for IPv6) |
+| {{ MY_ASN }}:530:2 | prefix too small (greater > 24 for IPv4 or > 48 for IPv6) |
+| {{ MY_ASN }}:540:1 | Validated Bogon AS filtering                   |
+| {{ MY_ASN }}:540:2 | Validated Bogon prefix filtering               |
+| {{ MY_ASN }}:550:1 | Validated Long AS path filtering               |
 
 
 ## Alterable / Actions
@@ -55,7 +55,7 @@ When these communities are applied to prefixes received by {{ $MY_NETWORK }} the
 | Community              | Description                        |
 | ---------------------- | ---------------------------------- |
 | 65535:666              | Blackhole                          |
-| {{ $MY_ASN }}:0:666    | Blackhole                          |
+| {{ MY_ASN }}:0:666    | Blackhole                          |
 
 Routes tagged with the blackhole community must be either an IPv4 /32 or an IPV6 /128 and have an encompassing IRR route or route6 object from an authenticated source like ARIN, APNIC, AFRINIC, or RIPE.
 
@@ -72,18 +72,18 @@ Routes tagged with the blackhole community must be either an IPv4 /32 or an IPV6
 
 | Community              | Description                              |
 | ---------------------- | ---------------------------------------- |
-| {{ $MY_ASN }}:600:1    | Prepends the peer AS one time            |
-| {{ $MY_ASN }}:600:2    | Prepends the peer AS two time            |
-| {{ $MY_ASN }}:600:3    | Prepends the peer AS three time          |
-| {{ $MY_ASN }}:601:n    | Prepends the peer AS one time to AS[n]   |
-| {{ $MY_ASN }}:602:n    | Prepends the peer AS two time to AS[n]   |
-| {{ $MY_ASN }}:603:n    | Prepends the peer AS three time to AS[n] |
+| {{ MY_ASN }}:600:1    | Prepends the peer AS one time            |
+| {{ MY_ASN }}:600:2    | Prepends the peer AS two time            |
+| {{ MY_ASN }}:600:3    | Prepends the peer AS three time          |
+| {{ MY_ASN }}:601:n    | Prepends the peer AS one time to AS[n]   |
+| {{ MY_ASN }}:602:n    | Prepends the peer AS two time to AS[n]   |
+| {{ MY_ASN }}:603:n    | Prepends the peer AS three time to AS[n] |
 
 ### Local preference
 
 | Community              | Description                              |
 | ---------------------- | ---------------------------------------- |
-| {{ $MY_ASN }}:610:x    | Set local preference to [x]              |
+| {{ MY_ASN }}:610:x    | Set local preference to [x]              |
 
 By default, {{ $MY_NETWORK }} customers/downstreams are imported to BGP with LocalPref 5000. However, {{ $MY_NETWORK }} provides a LocalPref manipulation community that will allow you to control the link over which traffic comes in for active-passive backup purposes. You can set the LocalPref to 4000 by tagging the route with {{ $MY_ASN }}:610:4000, which is still higher than non-customer routes.
 
@@ -91,7 +91,7 @@ By default, {{ $MY_NETWORK }} customers/downstreams are imported to BGP with Loc
 
 | Community              | Description                                 |
 | ---------------------- | ------------------------------------------- |
-| {{ $MY_ASN }}:660:1    | Do not export to any transit/upstream       |
-| {{ $MY_ASN }}:660:2    | Do not export to any bilateral peers        |
-| {{ $MY_ASN }}:660:3    | Do not export to any customer/downstream    |
-| {{ $MY_ASN }}:660:n    | Do not export to specific AS[n]             |
+| {{ MY_ASN }}:660:1    | Do not export to any transit/upstream       |
+| {{ MY_ASN }}:660:2    | Do not export to any bilateral peers        |
+| {{ MY_ASN }}:660:3    | Do not export to any customer/downstream    |
+| {{ MY_ASN }}:660:n    | Do not export to specific AS[n]             |
