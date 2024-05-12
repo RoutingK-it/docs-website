@@ -110,9 +110,9 @@ nav_enabled: true
 nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # External navigation links
-nav_external_links:
-  - title: RoutingK.it - Documentation
-    url: https://docs.routingk.it
+#nav_external_links:
+#  - title: RoutingK.it - Documentation
+#    url: https://docs.routingk.it
 
 liquid:
    error_mode: strict
