@@ -6,7 +6,6 @@ layout: default
 nav_order: 3
 permalink: /web-management-portal
 has_children: true
-parent: RoutingK.it - Documentation
 ---
 
 # RoutingK.it - Web Management Portal (WMP) Documentation
