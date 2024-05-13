@@ -4,7 +4,7 @@ author: Dennis de Houx
 published: true
 has_toc: true
 layout: default
-nav_order: 1
+nav_order: 99
 permalink: /client/changelog/developer-version
 grand_parent: Linux Client/Daemon
 parent: Changelog
