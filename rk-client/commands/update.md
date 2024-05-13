@@ -4,7 +4,7 @@ author: Dennis de Houx
 published: true
 has_toc: true
 layout: default
-nav_order: 4
+nav_order: 6
 permalink: /client/commands/update
 grand_parent: Linux Client/Daemon
 parent: Commands
