@@ -9,7 +9,6 @@ permalink: /client/changelog/developer-version
 grand_parent: Linux Client/Daemon
 parent: Changelog
 has_children: false
-last_modified_date: true
 ---
 
 # Linux Client/Daemon - Developer Version

@@ -9,7 +9,6 @@ permalink: /client/configuration/example
 grand_parent: Linux Client/Daemon
 parent: Configuration
 has_children: false
-last_modified_date: { { page.last_modified_at } }
 ---
 
 # Linux Client/Daemon - Configuration Example
