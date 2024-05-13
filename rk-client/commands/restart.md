@@ -17,8 +17,10 @@ has_children: false
 
 ## Options
 
-- --daemon [this client, this is the default]
-- --bird2 [the bird2 daemon]
+| Shorthand | Option   | Parameter                | Description | Default |
+| --------- | -------- | ------------------------ | ----------- | ------- |
+|           | --daemon | restart this client      |             | [X]     |
+|           | --bird2  | restart the bird2 daemon |             |         |
 
 ## Usage
 

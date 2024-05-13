@@ -17,11 +17,13 @@ has_children: false
 
 ## Options
 
-- --all [show all sessions, this is the default]
-- --bgp [show bgp sessions]
-- --ospf [show ospf sessions]
-- --kernel [show kernel sessions]
-- --static [show static sessions]
+| Shorthand | Option   | Parameter | Description          | Default |
+| --------- | -------- | --------- | -------------------- | ------- |
+|           | --all    |           | show all sessions    | [X]     |
+|           | --bgp    |           | show bgp sessions    |         |
+|           | --ospf   |           | show ospf sessions   |         |
+|           | --kernel |           | show kernel sessions |         |
+|           | --static |           | show static sessions |         |
 
 ## Usage
 

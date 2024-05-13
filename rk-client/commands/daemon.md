@@ -17,7 +17,9 @@ has_children: false
 
 ## Options
 
-- None
+| Shorthand | Option | Parameter | Description | Default |
+| --------- | ------ | --------- | ----------- | ------- |
+|           |        |           |             |         |
 
 ## Usage
 

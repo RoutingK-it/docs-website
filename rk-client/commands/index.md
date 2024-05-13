@@ -16,6 +16,8 @@ parent: Linux Client/Daemon
 
 ## Global options
 
-- -c|--config <file> [load custom config file]
-- -d|--debug [show debug output]
-- -h|--help [show help information]
+| Shorthand | Option   | Parameter | Description             | Default |
+| --------- | -------- | --------- | ----------------------- | ------- |
+| -c        | --config | <file>    | load custom config file |         |
+| -d        | --debug  |           | show debug output       |         |
+| -h        | --help   |           | show help information   |         |

@@ -17,7 +17,9 @@ has_children: false
 
 ## Options
 
-- <session> [the session name]
+| Shorthand | Option | Parameter | Description      | Default |
+| --------- | ------ | --------- | ---------------- | ------- |
+|           |        | <session> | the session name |         |
 
 ## Usage
 

@@ -17,7 +17,9 @@ has_children: false
 
 ## Options
 
-- --only-download [only download the new config files]
+| Shorthand | Option          | Parameter                          | Description | Default |
+| --------- | --------------- | ---------------------------------- | ----------- | ------- |
+|           | --only-download | only download the new config files |             |         |
 
 ## Usage
 
