@@ -9,6 +9,7 @@ permalink: /client/changelog/developer-version
 grand_parent: Linux Client/Daemon
 parent: Changelog
 has_children: false
+last_modified_date: true
 ---
 
 # Linux Client/Daemon - Developer Version
@@ -22,5 +23,3 @@ has_children: false
 ## Roadmap
 
 - Still Todo or on the roadmap
-
-Last update at: {{ page.last_modified_at }}
