@@ -127,7 +127,7 @@ liquid:
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "Copyright &copy; 2024 RoutingK.it & Dennis de Houx."
+footer_content: "Copyright &copy; 2024 RoutingK.it & Dennis de Houx. - {{ %last_modified_date% }} - {{ page.last_modified_at }}"
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
@@ -173,6 +173,7 @@ plugins:
   - jekyll-github-metadata
   - jekyll-include-cache
   - jekyll-default-layout
+  - jekyll-last-modified-at
 
 kramdown:
   syntax_highlighter_opts:
@@ -188,3 +189,8 @@ compress_html:
   profile: false
   # ignore:
   #   envs: all
+
+# Optional. The default date format, used if none is specified in the tag.
+last-modified-at:
+    date-format: '%A, %e %B %Y @ %H:%M:%S'
+

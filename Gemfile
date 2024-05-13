@@ -14,3 +14,5 @@ gem "html-proofer", "~> 5.0", :group => :development
 
 gem "just-the-docs", "0.8.2" # pinned to the current release
 # gem "just-the-docs"        # always download the latest release
+
+gem "jekyll-last-modified-at"
