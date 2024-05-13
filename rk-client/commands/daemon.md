@@ -1,5 +1,5 @@
 ---
-title: Linux Client/Daemon - Daemon
+title: Daemon
 author: Dennis de Houx
 published: true
 has_toc: true
@@ -26,3 +26,5 @@ user@bgp-router:~$ sudo rk-client daemon
 ```
 
 ## Output
+
+<TODO>

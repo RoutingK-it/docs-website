@@ -1,5 +1,5 @@
 ---
-title: Linux Client/Daemon - Restart
+title: Restart
 author: Dennis de Houx
 published: true
 has_toc: true
@@ -27,3 +27,5 @@ user@bgp-router:~$ sudo rk-client restart
 ```
 
 ## Output
+
+<TODO>

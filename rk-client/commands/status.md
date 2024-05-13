@@ -1,5 +1,5 @@
 ---
-title: Linux Client/Daemon - Status
+title: Status
 author: Dennis de Houx
 published: true
 has_toc: true
@@ -30,3 +30,5 @@ user@bgp-router:~$ sudo rk-client status
 ```
 
 ## Output
+
+<TODO>

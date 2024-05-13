@@ -1,5 +1,5 @@
 ---
-title: Linux Client/Daemon - Update
+title: Update
 author: Dennis de Houx
 published: true
 has_toc: true
@@ -26,3 +26,5 @@ user@bgp-router:~$ sudo rk-client update
 ```
 
 ## Output
+
+<TODO>
