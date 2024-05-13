@@ -10,7 +10,7 @@ body {
         sans-serif,
         "Segoe UI Emoji";
     //font-size: 18px;
-    font-size: 1.15rem;
+    font-size: 1.10rem;
 }
 
 h1 {
@@ -30,12 +30,24 @@ h1::after {
     background-blend-mode: normal;
 }
 
+h2::after {
+    content: '';
+    display: block;
+    // margin-top: 0.10rem;
+    // margin-bottom: 2rem;
+    height: 4px;
+    border: 0px solid rgba(100, 100, 100, 1);
+    border-radius: 2px;
+    background: linear-gradient(90deg, #a3ccd1 0%, #ebf4f5 80%, transparent 100%);
+    background-blend-mode: normal;
+}
+
 .breadcrumb-nav a {
-    color: #330512;
+    color: #052633;
 }
 
 .breadcrumb-nav a:hover {
-    color: #1F0209;;
+    color: #02131F;;
 }
 
 .aux-nav a.site-button {

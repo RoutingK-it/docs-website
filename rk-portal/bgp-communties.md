@@ -11,9 +11,7 @@ parent: Web Management Portal
 
 # BGP Communities
 
-{: .fs-9 }
-We use large BGP communities for both informational and alterable communities.
-{: .fs-6 .fw-300 }
+**We use large BGP communities for both informational and alterable communities.**
 
 ## Informational
 

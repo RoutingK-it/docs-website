@@ -11,10 +11,7 @@ has_children: true
 
 # RoutingK.it - Web Management Portal (WMP) Documentation
 
-{: .fs-9 }
-
-Here you can find all the information and documentation about the RoutingK.it Web Management Portal (WMP).
-{: .fs-6 .fw-300 }
+**Here you can find all the information and documentation about the RoutingK.it Web Management Portal (WMP).**
 
 <!--
 ## Installation
