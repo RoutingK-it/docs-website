@@ -43,7 +43,9 @@ The location of your bird2 socket file.
 
 > Default value
 >
-> `socket: /run/bird/bird.ctl`
+> ```yaml
+> - socket: /run/bird/bird.ctl
+> ```
 
 ### Yaml example
 

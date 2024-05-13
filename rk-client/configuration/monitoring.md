@@ -31,13 +31,13 @@ Enable or disable the monitoring fuction from collecting data. If the setting is
 
 How fast the client will push collected data to the Web Management Portal via api calls. The lowest available setting is five (5) minutes and the maximum is 1440 minutes (1 day).
 
-{: .highlight-title }
+{: .new-title }
 
 > Default value
 >
 > `update-time: 5`
 
-{: .important-title }
+{: .highlight-title }
 
 > Hosted information
 >
