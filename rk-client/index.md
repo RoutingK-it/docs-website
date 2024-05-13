@@ -11,13 +11,5 @@ has_children: true
 
 # RoutingK.it - Linux Client/Daemon Documentation
 
-{: .fs-9 }
-
 Here you can find all the information and documentation about the RoutingK.it Client/Daemon for linux.
-{: .fs-6 .fw-300 }
-
-## Installation
-
-## Configuration
-
-## Usage
+{: .fs-4 .fw-500 }
