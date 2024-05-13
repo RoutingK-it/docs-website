@@ -15,4 +15,4 @@ parent: Linux Client/Daemon
 {: .fs-9 }
 
 You can install the client/daemon multiple ways, here you will find installation instructions on how to do so.
-{: .fs-6 .fw-300 }
+{: .fs-3 .fw-400 }

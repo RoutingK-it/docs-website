@@ -16,7 +16,7 @@ has_children: false
 {: .fs-9 }
 
 You don't need to build the source, but have more control over where the files are installed.
-{: .fs-6 .fw-300 }
+{: .fw-200 }
 
 ## Pre-required tools
 

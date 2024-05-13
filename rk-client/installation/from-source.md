@@ -16,7 +16,7 @@ has_children: false
 {: .fs-9 }
 
 The do it yourself methode where you compile the source code from scratch.
-{: .fs-6 .fw-300 }
+{: .fs-3 .fw-300 }
 
 ## Pre-required tools
 
