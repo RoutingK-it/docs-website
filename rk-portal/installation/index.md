@@ -5,7 +5,7 @@ published: true
 has_toc: true
 layout: default
 nav_order: 1
-permalink: /client/installation
+permalink: /web-management-portal/installation
 has_children: true
 parent: Web Management Portal
 ---
