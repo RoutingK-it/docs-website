@@ -22,5 +22,3 @@ has_children: false
 ## Roadmap
 
 - Still Todo or on the roadmap
-
-{{ page.path | file_date | date_to_string }}
