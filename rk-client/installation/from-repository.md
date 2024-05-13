@@ -13,6 +13,7 @@ has_children: false
 
 # RoutingK.it - Client/Daemon installation from repository
 
+{: .fw-200 }
 The easiest way to install the client/Daemon on your debian system.
 
 ## Pre-required tools
@@ -34,3 +35,33 @@ The easiest way to install the client/Daemon on your debian system.
 ## Test
 
 - <TODO>
+
+Font size 1
+{: .fs-1 }
+Font size 2
+{: .fs-2 }
+Font size 3
+{: .fs-3 }
+Font size 4
+{: .fs-4 }
+Font size 5
+{: .fs-5 }
+Font size 6
+{: .fs-6 }
+Font size 7
+{: .fs-7 }
+Font size 8
+{: .fs-8 }
+Font size 9
+{: .fs-9 }
+Font size 10
+{: .fs-10 }
+
+Font weight 300
+{: .fw-300 }
+Font weight 400
+{: .fw-400 }
+Font weight 500
+{: .fw-500 }
+Font weight 700
+{: .fw-700 }

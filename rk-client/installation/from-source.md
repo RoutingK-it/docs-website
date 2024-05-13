@@ -18,6 +18,48 @@ has_children: false
 The do it yourself methode where you compile the source code from scratch.
 {: .fs-3 .fw-300 }
 
+{: .note-title }
+
+> Information
+>
+> Building from source is at our own risk and without any support!!!
+
+{: .important }
+
+> Information
+>
+> Building from source is at our own risk and without any support!!!
+
+{: .primary }
+
+> Information
+>
+> Building from source is at our own risk and without any support!!!
+
+{: .secondary }
+
+> Information
+>
+> Building from source is at our own risk and without any support!!!
+
+{: .warning }
+
+> Information
+>
+> Building from source is at our own risk and without any support!!!
+
+{: .new }
+
+> Information
+>
+> Building from source is at our own risk and without any support!!!
+
+{: .highlight }
+
+> Information
+>
+> Building from source is at our own risk and without any support!!!
+
 ## Pre-required tools
 
 - git (optional)
