@@ -11,7 +11,7 @@ parent: Configuration
 has_children: false
 ---
 
-# Linux Client/Daemon - Configuration Example
+# Configuration Example
 
 **The configuration file is a yaml (yml) based file, here is a example file to start with**
 

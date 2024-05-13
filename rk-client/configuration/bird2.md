@@ -20,6 +20,7 @@ has_children: false
 ### Directory
 
 The location of your bird2 configuration files.
+
 {: .note-title }
 
 > Default value
@@ -28,6 +29,7 @@ The location of your bird2 configuration files.
 ### Binary
 
 The location of your bird2 binary file.
+
 {: .note-title }
 
 > Default value
@@ -36,6 +38,7 @@ The location of your bird2 binary file.
 ### Socket
 
 The location of your bird2 socket file.
+
 {: .note-title }
 
 > Default value
