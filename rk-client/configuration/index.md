@@ -12,7 +12,4 @@ parent: Linux Client/Daemon
 
 # RoutingK.it - Client/Daemon configuration
 
-{: .fs-9 }
-
-Here you will all the information needed to customize your configuration file.
-{: .fs-6 .fw-300 }
+**Here you will all the information needed to customize your configuration file.**

@@ -12,7 +12,4 @@ parent: Linux Client/Daemon
 
 # RoutingK.it - Client/Daemon installation
 
-{: .fs-9 }
-
-You can install the client/daemon multiple ways, here you will find installation instructions on how to do so.
-{: .fs-3 .fw-400 }
+**You can install the client/daemon multiple ways, here you will find installation instructions on how to do so.**

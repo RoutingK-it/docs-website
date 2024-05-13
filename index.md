@@ -9,16 +9,16 @@ has_children: false
 ---
 
 # RoutingK.it - Documentation
-{: .fs-9 }
 
-Here you can find all the information and documentation about all the RoutingK.it Tools.
-{: .fs-6 .fw-300 }
+**Here you can find all the information and documentation about all the RoutingK.it Tools.**
 
 # Navigation Structure
+
 {: .no_toc }
 
 ## Table of contents
+
 {: .no_toc .text-delta }
 
 1. TOC
-{:toc}
+   {:toc}

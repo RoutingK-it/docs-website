@@ -11,6 +11,4 @@ parent: Web Management Portal
 
 # <TITLE>
 
-{: .fs-9 }
-<SHORT DESCRIPTION>
-{: .fs-6 .fw-300 }
+**<SHORT DESCRIPTION>**

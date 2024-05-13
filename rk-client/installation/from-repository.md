@@ -11,10 +11,9 @@ parent: Installation
 has_children: false
 ---
 
-# **RoutingK.it - Client/Daemon installation from repository**
+# RoutingK.it - Client/Daemon installation from repository
 
-The easiest way to install the client/Daemon on your debian system.
-{: .fw-500 }
+**The easiest way to install the client/Daemon on your debian system.**
 
 ## Pre-required tools
 

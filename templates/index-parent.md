@@ -11,7 +11,4 @@ has_children: true
 
 # RoutingK.it - <TITLE>
 
-{: .fs-9 }
-
-<SHORT DESCRIPTION>
-{: .fs-6 .fw-300 }
+**<SHORT DESCRIPTION>**
