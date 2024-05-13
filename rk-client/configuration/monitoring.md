@@ -45,7 +45,7 @@ How fast the client will push collected data to the Web Management Portal via ap
 >
 > If you put this more frequent then your account allows you will be rate-limited and this can cause problems for the update checker.
 >
-> Self-hosted users can set this to 1 minute but this is not recommanded, default option is 5 minutes. Setting this lower can cause large database tables and/or trigger the rate-limit on the api.
+> Self-hosted users can set this to 1 minute but this is not recommended, default option is 5 minutes. Setting this lower can cause large database tables and/or trigger the rate-limit on the api.
 
 ### Yaml example
 
