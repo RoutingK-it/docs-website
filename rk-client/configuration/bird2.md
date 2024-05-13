@@ -17,6 +17,20 @@ has_children: false
 
 ## Bird2
 
+This is fully optional and you should only use this if your bird2 installation is custom or you have changed the default locations.
+
+### Directory
+
+The location of your bird2 configuration files.
+
+### Binary
+
+The location of your bird2 binary file.
+
+### Socket
+
+The location of your bird2 socket file.
+
 ### Yaml example
 
 ```yaml
