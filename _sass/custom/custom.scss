@@ -9,6 +9,8 @@ body {
         arial,
         sans-serif,
         "Segoe UI Emoji";
+    //font-size: 18px;
+    font-size: 1.15rem;
 }
 
 h1 {
@@ -18,7 +20,10 @@ h1 {
 
 h1::after {
     content: '';
-    margin: 0.5rem;
+    display: block;
+    margin-top: 0.10rem;
+    margin-bottom: 1.25rem;
+    /*
     height: 6px;
     //border: 4px solid #44091c;
     //border-radius: 50%;
@@ -32,4 +37,25 @@ h1::after {
     border-radius: 50%;
     padding: 9px;
     box-sizing: border-box;
+    */
+    border: 0px solid rgba(100, 100, 100, 1);
+    border-radius: 4px;
+    background: linear-gradient(90deg, #093944 0%, #a3ccd1 65%, transparent 100%);
+    background-blend-mode: normal;
+}
+
+.breadcrumb-nav a {
+    color: #44091c;
+}
+
+.breadcrumb-nav a:hover {
+    color: #330512;
+}
+
+.aux-nav > a.site-button {
+    color: #44091c;
+}
+
+.aux-nav > a.site-button:hover {
+    color: #ffffff;
 }
