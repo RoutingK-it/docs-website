@@ -4,7 +4,7 @@ author: Dennis de Houx
 published: true
 has_toc: true
 layout: default
-nav_order: 3
+nav_order: 2
 permalink: /client/installation/precompiled
 parent: Client/Deamon installation
 has_children: false

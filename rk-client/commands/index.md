@@ -7,6 +7,7 @@ layout: default
 nav_order: 3
 permalink: /client/commands
 has_children: true
+parent: Linux Client/Daemon
 ---
 
 # RoutingK.it - Client/Deamon commands

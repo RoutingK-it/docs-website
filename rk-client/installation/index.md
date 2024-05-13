@@ -4,9 +4,10 @@ author: Dennis de Houx
 published: true
 has_toc: true
 layout: default
-nav_order: 3
+nav_order: 1
 permalink: /client/installation
 has_children: true
+parent: Linux Client/Daemon
 ---
 
 # RoutingK.it - Client/Deamon installation
