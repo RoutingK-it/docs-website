@@ -13,8 +13,6 @@ has_children: false
 
 # RoutingK.it - Client/Daemon installation from repository
 
-{: .fs-10 }
-
 The easiest way to install the client/Daemon on your debian system.
 
 ## Pre-required tools
