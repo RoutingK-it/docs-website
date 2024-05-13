@@ -11,9 +11,7 @@ parent: Installation
 has_children: false
 ---
 
-# RoutingK.it - Client/Daemon installation from source
-
-{: .fw-700 }
+# **RoutingK.it - Client/Daemon installation from source**
 
 The do it yourself methode where you compile the source code from scratch.
 {: .fw-300 }
