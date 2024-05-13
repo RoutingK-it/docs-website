@@ -19,7 +19,7 @@ has_children: false
 
 | Option   | Parameter | Description              | Default |
 | -------- | --------- | ------------------------ | ------- |
-| --daemon |           | restart this client      | [X]     |
+| --daemon |           | restart this client      | Yes     |
 | --bird2  |           | restart the bird2 daemon |         |
 
 ## Usage

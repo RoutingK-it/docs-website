@@ -19,7 +19,7 @@ has_children: false
 
 | Option   | Parameter | Description          | Default |
 | -------- | --------- | -------------------- | ------- |
-| --all    |           | show all sessions    | [X]     |
+| --all    |           | show all sessions    | Yes     |
 | --bgp    |           | show bgp sessions    |         |
 | --ospf   |           | show ospf sessions   |         |
 | --kernel |           | show kernel sessions |         |
