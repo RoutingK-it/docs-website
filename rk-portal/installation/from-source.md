@@ -35,12 +35,12 @@ has_children: false
 
 ## Download / Clone
 
-- <TODO>
+- TODO
 
 ## Install
 
-- <TODO>
+- TODO
 
 ## Test
 
-- <TODO>
+- TODO

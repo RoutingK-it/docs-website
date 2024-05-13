@@ -13,4 +13,4 @@ has_children: false
 
 # Standalone installation
 
-**[TODO]**
+** TODO **
