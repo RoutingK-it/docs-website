@@ -17,6 +17,14 @@ has_children: false
 
 ## Portal
 
+### Url
+
+The url of the Web Management Portal, if you use a self-hosted portal we recommand that you use ssl and/or only allow your own ip's connecting to the portal.
+
+### Api Key
+
+The api key used to connect to the portal, keep this safe and don't publish this key. We recommand creating a special api key only used by this client.
+
 ### Yaml example
 
 ```yaml
