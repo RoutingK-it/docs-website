@@ -14,7 +14,7 @@ parent: Web Management Portal
 
 **Here you can learn more about the global filtering we use, some filtering is required, others are optional.**
 
-## Order off operation
+## Order of operation
 
 - Global ASN blocklist (optional)
 - Global prefix blocklist (optional)
