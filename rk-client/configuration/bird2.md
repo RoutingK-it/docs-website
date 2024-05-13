@@ -39,7 +39,7 @@ The location of your bird2 binary file.
 
 The location of your bird2 socket file.
 
-{: .note-title }
+{: .important-title }
 
 > Default value
 >

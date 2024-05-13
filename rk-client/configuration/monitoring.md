@@ -20,17 +20,21 @@ has_children: false
 ### Enabled
 
 Enable or disable the monitoring fuction from collecting data. If the setting is disabled (enabled: false) then the client will not push any session or bird2 information to the Web Management Portal.
-{: .note-title }
+
+{: .new-title }
 
 > Default value
+>
 > `enabled: false`
 
 ### Update time
 
 How fast the client will push collected data to the Web Management Portal via api calls. The lowest available setting is five (5) minutes and the maximum is 1440 minutes (1 day).
-{: .note-title }
+
+{: .highlight-title }
 
 > Default value
+>
 > `update-time: 5`
 
 {: .important-title }
