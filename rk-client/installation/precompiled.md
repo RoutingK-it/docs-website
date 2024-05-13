@@ -11,12 +11,10 @@ parent: Installation
 has_children: false
 ---
 
-{: .fs-9 }
-
 # **RoutingK.it - Client/Daemon precompiled installation**
 
 You don't need to build the source, but have more control over where the files are installed.
-{: .fw-200 }
+{: .fw-500 }
 
 ## Pre-required tools
 

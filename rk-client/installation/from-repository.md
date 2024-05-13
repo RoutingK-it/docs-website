@@ -14,7 +14,7 @@ has_children: false
 # **RoutingK.it - Client/Daemon installation from repository**
 
 The easiest way to install the client/Daemon on your debian system.
-{: .fw-400 }
+{: .fw-500 }
 
 ## Pre-required tools
 
