@@ -16,7 +16,7 @@ has_children: false
 {: .fw-700 }
 
 The do it yourself methode where you compile the source code from scratch.
-{: .fw-400 }
+{: .fw-300 }
 
 {: .note-title }
 
