@@ -15,11 +15,15 @@ has_children: false
 
 **Shows help information**
 
+<!-->
+
 ## Options
 
-| Shorthand | Option | Parameter | Description | Default |
-| --------- | ------ | --------- | ----------- | ------- |
-|           |        |           |             |         |
+| Option | Parameter | Description | Default |
+| ------ | --------- | ----------- | ------- |
+|        |           |             |         |
+
+//-->
 
 ## Usage
 
@@ -29,4 +33,4 @@ user@bgp-router:~$ sudo rk-client --help
 
 ## Output
 
-<TODO>
+[TODO]

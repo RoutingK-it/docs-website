@@ -17,9 +17,9 @@ has_children: false
 
 ## Options
 
-| Shorthand | Option          | Parameter                          | Description | Default |
-| --------- | --------------- | ---------------------------------- | ----------- | ------- |
-|           | --only-download | only download the new config files |             |         |
+| Option          | Parameter | Description                        | Default |
+| --------------- | --------- | ---------------------------------- | ------- |
+| --only-download |           | only download the new config files |         |
 
 ## Usage
 
@@ -29,4 +29,4 @@ user@bgp-router:~$ sudo rk-client update
 
 ## Output
 
-<TODO>
+[TODO]

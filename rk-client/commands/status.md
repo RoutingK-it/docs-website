@@ -17,13 +17,13 @@ has_children: false
 
 ## Options
 
-| Shorthand | Option   | Parameter | Description          | Default |
-| --------- | -------- | --------- | -------------------- | ------- |
-|           | --all    |           | show all sessions    | [X]     |
-|           | --bgp    |           | show bgp sessions    |         |
-|           | --ospf   |           | show ospf sessions   |         |
-|           | --kernel |           | show kernel sessions |         |
-|           | --static |           | show static sessions |         |
+| Option   | Parameter | Description          | Default |
+| -------- | --------- | -------------------- | ------- |
+| --all    |           | show all sessions    | [X]     |
+| --bgp    |           | show bgp sessions    |         |
+| --ospf   |           | show ospf sessions   |         |
+| --kernel |           | show kernel sessions |         |
+| --static |           | show static sessions |         |
 
 ## Usage
 
@@ -33,4 +33,4 @@ user@bgp-router:~$ sudo rk-client status
 
 ## Output
 
-<TODO>
+[TODO]

@@ -15,11 +15,13 @@ has_children: false
 
 **Run as s service in the background, checks the portal via api for new config files and pushes monitoring information to the portal. See configuration settings for more information about how and when the update runs in the background.**
 
+<!--
 ## Options
 
-| Shorthand | Option | Parameter | Description | Default |
-| --------- | ------ | --------- | ----------- | ------- |
-|           |        |           |             |         |
+| Option | Parameter | Description | Default |
+| ------ | --------- | ----------- | ------- |
+|        |           |             |         |
+//-->
 
 ## Usage
 
@@ -29,4 +31,4 @@ user@bgp-router:~$ sudo rk-client daemon
 
 ## Output
 
-<TODO>
+[TODO]

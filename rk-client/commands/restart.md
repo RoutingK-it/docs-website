@@ -17,10 +17,10 @@ has_children: false
 
 ## Options
 
-| Shorthand | Option   | Parameter                | Description | Default |
-| --------- | -------- | ------------------------ | ----------- | ------- |
-|           | --daemon | restart this client      |             | [X]     |
-|           | --bird2  | restart the bird2 daemon |             |         |
+| Option   | Parameter | Description              | Default |
+| -------- | --------- | ------------------------ | ------- |
+| --daemon |           | restart this client      | [X]     |
+| --bird2  |           | restart the bird2 daemon |         |
 
 ## Usage
 
@@ -30,4 +30,4 @@ user@bgp-router:~$ sudo rk-client restart
 
 ## Output
 
-<TODO>
+[TODO]

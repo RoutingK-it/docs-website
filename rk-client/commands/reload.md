@@ -17,9 +17,9 @@ has_children: false
 
 ## Options
 
-| Shorthand | Option | Parameter | Description      | Default |
-| --------- | ------ | --------- | ---------------- | ------- |
-|           |        | <session> | the session name |         |
+| Option | Parameter | Description      | Default |
+| ------ | --------- | ---------------- | ------- |
+|        | session   | the session name |         |
 
 ## Usage
 
@@ -29,4 +29,4 @@ user@bgp-router:~$ sudo rk-client reload <session>
 
 ## Output
 
-<TODO>
+[TODO]
