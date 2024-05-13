@@ -10,6 +10,6 @@ has_children: true
 parent: Linux Client/Daemon
 ---
 
-# RoutingK.it - Client/Daemon installation
+# Linux Client/Daemon installation
 
 **You can install the client/daemon multiple ways, here you will find installation instructions on how to do so.**

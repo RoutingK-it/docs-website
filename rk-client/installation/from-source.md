@@ -11,7 +11,7 @@ parent: Installation
 has_children: false
 ---
 
-# RoutingK.it - Client/Daemon installation from source
+# Installation from source
 
 **The do it yourself methode where you compile the source code from scratch.**
 

@@ -10,6 +10,6 @@ has_children: true
 parent: Linux Client/Daemon
 ---
 
-# RoutingK.it - Client/Daemon commands
+# Linux Client/Daemon commands
 
 **The client/Daemon commands that you can run manual to check status, reload or ....**

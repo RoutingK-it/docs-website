@@ -9,6 +9,6 @@ permalink: /client
 has_children: true
 ---
 
-# RoutingK.it - Linux Client/Daemon Documentation
+# RoutingK.it - Linux Client/Daemon
 
 **Here you can find all the information and documentation about the RoutingK.it Client/Daemon for linux.**

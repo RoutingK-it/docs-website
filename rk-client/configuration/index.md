@@ -10,6 +10,6 @@ has_children: true
 parent: Linux Client/Daemon
 ---
 
-# RoutingK.it - Client/Daemon configuration
+# Linux Client/Daemon configuration
 
 **Here you will all the information needed to customize your configuration file.**

@@ -9,7 +9,7 @@ permalink: /web-management-portal
 has_children: true
 ---
 
-# RoutingK.it - Web Management Portal (WMP) Documentation
+# RoutingK.it - Web Management Portal
 
 **Here you can find all the information and documentation about the RoutingK.it Web Management Portal (WMP).**
 

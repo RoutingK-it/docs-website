@@ -11,7 +11,7 @@ parent: Installation
 has_children: false
 ---
 
-# RoutingK.it - Client/Daemon installation from repository
+# Installation from repository
 
 **The easiest way to install the client/Daemon on your debian system.**
 
