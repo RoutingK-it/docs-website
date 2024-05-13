@@ -1,5 +1,5 @@
 ---
-title: Client/Deamon installation
+title: Installation
 author: Dennis de Houx
 published: true
 has_toc: true

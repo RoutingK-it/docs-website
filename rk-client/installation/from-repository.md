@@ -1,12 +1,13 @@
 ---
-title: Client/Deamon installation from repository
+title: From repository
 author: Dennis de Houx
 published: true
 has_toc: true
 layout: default
 nav_order: 3
 permalink: /client/installation/from-repository
-parent: Client/Deamon installation
+grand_parent: Linux Client/Daemon
+parent: Installation
 has_children: false
 ---
 

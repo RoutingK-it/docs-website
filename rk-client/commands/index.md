@@ -1,5 +1,5 @@
 ---
-title: Client/Deamon commands
+title: Commands
 author: Dennis de Houx
 published: true
 has_toc: true

@@ -1,12 +1,13 @@
 ---
-title: Client/Deamon precompiled installation
+title: Precompiled
 author: Dennis de Houx
 published: true
 has_toc: true
 layout: default
 nav_order: 2
 permalink: /client/installation/precompiled
-parent: Client/Deamon installation
+grand_parent: Linux Client/Daemon
+parent: Installation
 has_children: false
 ---
 

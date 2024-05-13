@@ -1,12 +1,13 @@
 ---
-title: Client/Deamon installation from source
+title: From source
 author: Dennis de Houx
 published: true
 has_toc: true
 layout: default
 nav_order: 1
 permalink: /client/installation/from-source
-parent: Client/Deamon installation
+grand_parent: Linux Client/Daemon
+parent: Installation
 has_children: false
 ---
 
