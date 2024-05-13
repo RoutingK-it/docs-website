@@ -10,7 +10,7 @@ has_children: true
 parent: Linux Client/Daemon
 ---
 
-# RoutingK.it - Client/Deamon installation
+# RoutingK.it - Client/Daemon installation
 
 {: .fs-9 }
 

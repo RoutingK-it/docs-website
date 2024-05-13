@@ -11,7 +11,7 @@ parent: Installation
 has_children: false
 ---
 
-# RoutingK.it - Client/Deamon installation from source
+# RoutingK.it - Client/Daemon installation from source
 
 {: .fs-9 }
 

@@ -11,11 +11,11 @@ parent: Installation
 has_children: false
 ---
 
-# RoutingK.it - Client/Deamon installation from repository
+# RoutingK.it - Client/Daemon installation from repository
 
 {: .fs-9 }
 
-The easiest way to install the client/deamon on your debian system.
+The easiest way to install the client/Daemon on your debian system.
 {: .fs-6 .fw-300 }
 
 ## Pre-required tools

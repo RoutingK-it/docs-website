@@ -10,9 +10,9 @@ has_children: true
 parent: Linux Client/Daemon
 ---
 
-# RoutingK.it - Client/Deamon commands
+# RoutingK.it - Client/Daemon commands
 
 {: .fs-9 }
 
-The client/deamon commands that you can run manual to check status, reload or ....
+The client/Daemon commands that you can run manual to check status, reload or ....
 {: .fs-6 .fw-300 }
