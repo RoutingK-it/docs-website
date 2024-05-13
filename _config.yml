@@ -28,6 +28,7 @@ exclude:
   - vendor/ruby/
   - bin/
   - lib/
+  - templates/
   - "*.gemspec"
   - "*.gem"
   - LICENSE.txt
