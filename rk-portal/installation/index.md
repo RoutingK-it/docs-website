@@ -7,9 +7,9 @@ layout: default
 nav_order: 1
 permalink: /client/installation
 has_children: true
-parent: Linux Client/Daemon
+parent: Web Management Portal
 ---
 
-# Linux Client/Daemon installation
+# Web Management Portal installation
 
-**You can install the client/daemon multiple ways, here you will find installation instructions on how to do so.**
+**You can install the web management portal multiple ways, here you will find installation instructions on how to do so.**

@@ -4,7 +4,7 @@ author: Dennis de Houx
 published: true
 has_toc: true
 layout: default
-nav_order: 2
+nav_order: 3
 permalink: /web-management-portal/installation/standalone
 grand_parent: Web Management Portal
 parent: Installation
