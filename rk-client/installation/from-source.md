@@ -13,48 +13,12 @@ has_children: false
 
 # RoutingK.it - Client/Daemon installation from source
 
-{: .fs-9 }
+{: .fw-700 }
 
 The do it yourself methode where you compile the source code from scratch.
-{: .fs-3 .fw-300 }
+{: .fw-400 }
 
 {: .note-title }
-
-> Information
->
-> Building from source is at our own risk and without any support!!!
-
-{: .important }
-
-> Information
->
-> Building from source is at our own risk and without any support!!!
-
-{: .primary }
-
-> Information
->
-> Building from source is at our own risk and without any support!!!
-
-{: .secondary }
-
-> Information
->
-> Building from source is at our own risk and without any support!!!
-
-{: .warning }
-
-> Information
->
-> Building from source is at our own risk and without any support!!!
-
-{: .new }
-
-> Information
->
-> Building from source is at our own risk and without any support!!!
-
-{: .highlight }
 
 > Information
 >
