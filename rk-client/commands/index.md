@@ -1,17 +1,17 @@
 ---
-title: <TITLE>
+title: Client/Deamon commands
 author: Dennis de Houx
 published: true
 has_toc: true
 layout: default
 nav_order: 3
-permalink: /web-management-portal
+permalink: /client/commands
 has_children: true
 ---
 
-# RoutingK.it - <TITLE>
+# RoutingK.it - Client/Deamon commands
 
 {: .fs-9 }
 
-<SHORT DESCRIPTION>
+The client/deamon commands that you can run manual to check status, reload or ....
 {: .fs-6 .fw-300 }
