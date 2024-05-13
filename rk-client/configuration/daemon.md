@@ -20,25 +20,31 @@ has_children: false
 ### Enabled
 
 Enable or disable the daemon from running in the background. If the setting is disabled (enabled: false) then the client will only run once.
+
 {: .note-title }
 
 > Default value
+>
 > `enabled: true`
 
 ### Update time
 
 How fast the client will check for updates on the Web Management Portal via api calls. The lowest available setting is one (1) hour and the maximum is 720 hours (1 month).
+
 {: .note-title }
 
 > Default value
+>
 > `update-time: 4`
 
 ### Log file
 
 Location where the log files will be saved, the default is the syslog location.
+
 {: .note-title }
 
 > Default value
+>
 > `log-file: syslog`
 
 ### Yaml example
