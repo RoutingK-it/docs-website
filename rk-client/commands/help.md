@@ -11,7 +11,7 @@ parent: Commands
 has_children: false
 ---
 
-# Linux Client/Daemon - Status
+# Linux Client/Daemon - Help
 
 **Shows help information**
 
