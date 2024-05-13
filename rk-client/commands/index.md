@@ -13,3 +13,9 @@ parent: Linux Client/Daemon
 # Linux Client/Daemon commands
 
 **The client/Daemon commands that you can run manual to check status, reload or ....**
+
+## Global options
+
+- -c|--config <file> [load custom config file]
+- -d|--debug [show debug output]
+- -h|--help [show help information]
