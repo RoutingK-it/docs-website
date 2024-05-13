@@ -26,3 +26,4 @@ parent: Web Management Portal
 - Prefix length (forced)
 - Known Tier1/Transit Networks (optional)
 - BGP Communities (optional)
+- Custom filters per session (optional)
