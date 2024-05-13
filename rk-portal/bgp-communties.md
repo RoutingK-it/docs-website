@@ -4,7 +4,7 @@ author: Dennis de Houx
 published: true
 has_toc: true
 layout: default
-#nav_order: 3
+nav_order: 4
 permalink: /web-management-portal/bgp-communties
 parent: Web Management Portal
 ---
