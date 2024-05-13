@@ -11,7 +11,7 @@ parent: Configuration
 has_children: false
 ---
 
-# Linux Client/Daemon - Portal Configuration
+# Portal Configuration
 
 **The configuration file is a yaml (yml) based file, here is a example file to start with**
 
@@ -21,9 +21,18 @@ has_children: false
 
 The url of the Web Management Portal, if you use a self-hosted portal we recommand that you use ssl and/or only allow your own ip's connecting to the portal.
 
+{: .note-title }
+
+> Default value
+> `url: https://127.0.0.1`
+
 ### Api Key
 
 The api key used to connect to the portal, keep this safe and don't publish this key. We recommand creating a special api key only used by this client.
+{: .note-title }
+
+> Default value
+> `api-key: "iNeedToChangeThisAPIkey"`
 
 ### Yaml example
 

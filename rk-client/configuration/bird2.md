@@ -11,25 +11,35 @@ parent: Configuration
 has_children: false
 ---
 
-# Linux Client/Daemon - Bird2 Configuration
+# Bird2 Configuration
 
-**The configuration file is a yaml (yml) based file, here is a example file to start with**
+**This is fully optional and you should only use this if your bird2 installation is custom or you have changed the default locations.**
 
 ## Bird2
-
-This is fully optional and you should only use this if your bird2 installation is custom or you have changed the default locations.
 
 ### Directory
 
 The location of your bird2 configuration files.
+{: .note-title }
+
+> Default value
+> `directory: /etc/bird/`
 
 ### Binary
 
 The location of your bird2 binary file.
+{: .note-title }
+
+> Default value
+> `binary: /usr/sbin/bird`
 
 ### Socket
 
 The location of your bird2 socket file.
+{: .note-title }
+
+> Default value
+> `socket: /run/bird/bird.ctl`
 
 ### Yaml example
 
