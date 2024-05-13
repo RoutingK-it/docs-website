@@ -62,6 +62,10 @@ h2:not(.text-delta)::after {
     color: #ffffff;
 }
 
+.nav-list .nav-list-item .nav-list-link {
+    padding-left: 1.5rem;
+}
+
 hr {
     height: 2px;
     padding: 0;
