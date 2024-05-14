@@ -13,13 +13,13 @@ has_children: false
 
 # Monitoring Configuration
 
-**Adjust the monitoring configuration if you want to use this, by default this is disabled to save bandwidth and cpu proccessing**
+**Adjust the monitoring configuration if you want to use this, by default this is disabled to save bandwidth and cpu processing**
 
 ## Monitoring
 
 ### Enabled
 
-Enable or disable the monitoring fuction from collecting data. If the setting is disabled (enabled: false) then the client will not push any session or bird2 information to the Web Management Portal.
+Enable or disable the monitoring function from collecting data. If the setting is disabled (enabled: false) then the client will not push any session or bird2 information to the Web Management Portal.
 
 {: .new-title }
 

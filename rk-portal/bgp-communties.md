@@ -5,7 +5,7 @@ published: true
 has_toc: true
 layout: default
 nav_order: 5
-permalink: /web-management-portal/bgp-communties
+permalink: /web-management-portal/bgp-communities
 parent: Web Management Portal
 ---
 
@@ -69,16 +69,16 @@ Routes tagged with the blackhole community must be either an IPv4 /32 or an IPV6
 | 65535:65282 | No Advertisement (RFC1997)                 |
 | 65535:65284 | No Export (RFC3765)                        |
 
-### Prepends
+### Prepend
 
-| Community    | Description                              |
-| ------------ | ---------------------------------------- |
-| MY_ASN:600:1 | Prepends the peer AS one time            |
-| MY_ASN:600:2 | Prepends the peer AS two time            |
-| MY_ASN:600:3 | Prepends the peer AS three time          |
-| MY_ASN:601:n | Prepends the peer AS one time to AS[n]   |
-| MY_ASN:602:n | Prepends the peer AS two time to AS[n]   |
-| MY_ASN:603:n | Prepends the peer AS three time to AS[n] |
+| Community    | Description                             |
+| ------------ | --------------------------------------- |
+| MY_ASN:600:1 | Prepend the peer AS one time            |
+| MY_ASN:600:2 | Prepend the peer AS two time            |
+| MY_ASN:600:3 | Prepend the peer AS three time          |
+| MY_ASN:601:n | Prepend the peer AS one time to AS[n]   |
+| MY_ASN:602:n | Prepend the peer AS two time to AS[n]   |
+| MY_ASN:603:n | Prepend the peer AS three time to AS[n] |
 
 ### Local preference
 

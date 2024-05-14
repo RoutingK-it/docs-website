@@ -19,7 +19,7 @@ has_children: false
 
 ### Url
 
-The url of the Web Management Portal, if you use a self-hosted portal we recommand that you use ssl and/or only allow your own ip's connecting to the portal.
+The url of the Web Management Portal, if you use a self-hosted portal we recommend that you use ssl and/or only allow your own ip's connecting to the portal.
 
 {: .new-title }
 
@@ -29,7 +29,7 @@ The url of the Web Management Portal, if you use a self-hosted portal we recomma
 
 ### Api Key
 
-The api key used to connect to the portal, keep this safe and don't publish this key. We recommand creating a special api key only used by this client.
+The api key used to connect to the portal, keep this safe and don't publish this key. We recommend creating a special api key only used by this client.
 
 {: .new-title }
 

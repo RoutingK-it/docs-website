@@ -13,7 +13,7 @@ has_children: false
 
 # Installation from source
 
-**The do it yourself methode where you compile the source code from scratch.**
+**The do it yourself method where you compile the source code from scratch.**
 
 {: .note-title }
 
