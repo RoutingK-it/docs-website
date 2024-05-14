@@ -22,7 +22,7 @@ parent: Web Management Portal
 - Bogon prefix (forced)
 - RPKI (optional, but adviced)
 - IXP peering LANs (forced)
-- Long ASN path (forced)
+- Long AS path (forced)
 - Prefix length (forced)
 - Known Tier1/Transit Networks (optional, but adviced)
 - BGP Communities (optional)
