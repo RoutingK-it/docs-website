@@ -59,6 +59,8 @@ ASN
 asn
 RPKI
 rpki
+ip
+IP
 IPv
 IPv4
 IPv6
@@ -126,3 +128,7 @@ LightSpeed
 webserver
 Webserver
 WebServer
+blocklist
+Blocklist
+prepend
+Prepend
