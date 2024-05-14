@@ -19,7 +19,7 @@ has_children: false
 
 ### Url
 
-The url of the Web Management Portal, if you use a self-hosted portal we recommend that you use ssl and/or only allow your own ip's connecting to the portal.
+The url of the Web Management Portal, if you use a self-hosted portal we recommend that you use ssl and/or only allow your own ip addresses connecting to the portal.
 
 {: .new-title }
 
