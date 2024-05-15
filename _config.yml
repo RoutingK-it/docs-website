@@ -95,10 +95,10 @@ heading_anchors: true
 aux_links:
   "RoutingK.it":
     - "https://routingk.it"
-  "Web Management Portal (source)":
-    - "https://github.com/RoutingK-it/rk-portal"
-  "Client / Daemon (source)":
-    - "https://github.com/RoutingK-it/rk-client"
+#  "Web Management Portal (source)":
+#    - "https://github.com/RoutingK-it/rk-portal"
+#  "Client / Daemon (source)":
+#    - "https://github.com/RoutingK-it/rk-client"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
@@ -161,6 +161,10 @@ callouts:
   warning:
     title: Warning
     color: red
+  primary:
+    color: primary
+  secondary:
+    color: secondary
 
 # Google Analytics Tracking (optional)
 # Supports a CSV of tracking ID strings (eg. "UA-1234567-89,G-1AB234CDE5")

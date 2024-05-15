@@ -13,20 +13,6 @@ has_children: true
 
 **Here you can find all the information and documentation about the RoutingK.it Web Management Portal (WMP).**
 
-<!--
-## Installation
+## Github source
 
-### From Source
-
-### Docker
-
-## Configuration
-
-### Default Settings
-
-### Integrations
-
-## Filters
-
-## BGP Communities
-//-->
+[View the source on github](https://github.com/RoutingK-it/rk-portal)
