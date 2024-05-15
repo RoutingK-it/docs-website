@@ -7,6 +7,10 @@ Api
 API
 bgp
 BGP
+iBGP
+eBGP
+IBGP
+EBGP
 ospf
 OSPF
 SSL
