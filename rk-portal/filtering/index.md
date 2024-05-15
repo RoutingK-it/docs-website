@@ -18,6 +18,7 @@ parent: Web Management Portal
 
 - Global ASN blocklist (optional)
 - Global prefix blocklist (optional)
+- Blackhole Community (forced eBGP)
 - Bogon ASN (forced eBGP)
 - Bogon prefix (forced eBGP)
 - RPKI (optional, but advised)
