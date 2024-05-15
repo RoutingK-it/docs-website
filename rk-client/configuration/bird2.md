@@ -21,6 +21,8 @@ has_children: false
 
 The location of your bird2 configuration files.
 
+{: .new-title }
+
 > **Default value**
 >
 > `directory: /etc/bird/`
@@ -29,7 +31,7 @@ The location of your bird2 configuration files.
 
 The location of your bird2 binary file.
 
-{: .note-title }
+{: .new-title }
 
 > Default value
 >
@@ -39,13 +41,11 @@ The location of your bird2 binary file.
 
 The location of your bird2 socket file.
 
-{: .important-title }
+{: .new-title }
 
 > Default value
 >
-> ```yaml
-> - socket: /run/bird/bird.ctl
-> ```
+> `socket: /run/bird/bird.ctl`
 
 ### Yaml example
 

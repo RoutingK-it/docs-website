@@ -35,7 +35,7 @@ The api key used to connect to the portal, keep this safe and don't publish this
 
 > Default value
 >
-> api-key: "iNeedToChangeThisAPIkey"
+> `api-key: "iNeedToChangeThisAPIkey"`
 
 ### Yaml example
 
