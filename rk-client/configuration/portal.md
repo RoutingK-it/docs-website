@@ -21,7 +21,7 @@ has_children: false
 
 The url of the Web Management Portal, if you use a self-hosted portal we recommend that you use ssl and/or only allow your own ip addresses connecting to the portal.
 
-{: .new-title }
+{: .primary-title }
 
 > Default value
 >
@@ -31,7 +31,7 @@ The url of the Web Management Portal, if you use a self-hosted portal we recomme
 
 The api key used to connect to the portal, keep this safe and don't publish this key. We recommend creating a special api key only used by this client.
 
-{: .new-title }
+{: .primary-title }
 
 > Default value
 >

@@ -21,7 +21,7 @@ has_children: false
 
 The location of your bird2 configuration files.
 
-{: .new-title }
+{: .primary-title }
 
 > **Default value**
 >
@@ -31,7 +31,7 @@ The location of your bird2 configuration files.
 
 The location of your bird2 binary file.
 
-{: .new-title }
+{: .primary-title }
 
 > Default value
 >
@@ -41,7 +41,7 @@ The location of your bird2 binary file.
 
 The location of your bird2 socket file.
 
-{: .new-title }
+{: .primary-title }
 
 > Default value
 >
